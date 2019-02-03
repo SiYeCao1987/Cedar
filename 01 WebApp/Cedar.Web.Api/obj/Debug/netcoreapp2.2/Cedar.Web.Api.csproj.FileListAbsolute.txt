@@ -1,0 +1,13 @@
+E:\Cedar\01 WebApp\Cedar.Web.Api\bin\Debug\netcoreapp2.2\Cedar.Web.Api.deps.json
+E:\Cedar\01 WebApp\Cedar.Web.Api\bin\Debug\netcoreapp2.2\Cedar.Web.Api.runtimeconfig.json
+E:\Cedar\01 WebApp\Cedar.Web.Api\bin\Debug\netcoreapp2.2\Cedar.Web.Api.runtimeconfig.dev.json
+E:\Cedar\01 WebApp\Cedar.Web.Api\bin\Debug\netcoreapp2.2\Cedar.Web.Api.dll
+E:\Cedar\01 WebApp\Cedar.Web.Api\bin\Debug\netcoreapp2.2\Cedar.Web.Api.pdb
+E:\Cedar\01 WebApp\Cedar.Web.Api\obj\Debug\netcoreapp2.2\Cedar.Web.Api.csproj.CoreCompileInputs.cache
+E:\Cedar\01 WebApp\Cedar.Web.Api\obj\Debug\netcoreapp2.2\Cedar.Web.Api.RazorAssemblyInfo.cache
+E:\Cedar\01 WebApp\Cedar.Web.Api\obj\Debug\netcoreapp2.2\Cedar.Web.Api.RazorAssemblyInfo.cs
+E:\Cedar\01 WebApp\Cedar.Web.Api\obj\Debug\netcoreapp2.2\Cedar.Web.Api.AssemblyInfoInputs.cache
+E:\Cedar\01 WebApp\Cedar.Web.Api\obj\Debug\netcoreapp2.2\Cedar.Web.Api.AssemblyInfo.cs
+E:\Cedar\01 WebApp\Cedar.Web.Api\obj\Debug\netcoreapp2.2\Cedar.Web.Api.RazorTargetAssemblyInfo.cache
+E:\Cedar\01 WebApp\Cedar.Web.Api\obj\Debug\netcoreapp2.2\Cedar.Web.Api.dll
+E:\Cedar\01 WebApp\Cedar.Web.Api\obj\Debug\netcoreapp2.2\Cedar.Web.Api.pdb

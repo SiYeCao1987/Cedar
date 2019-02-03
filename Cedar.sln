@@ -3,9 +3,26 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01 WebApp", "01 WebApp", "{E165A6F1-4D48-4776-B64D-DD68AD190CEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cedar.Web.Api", "01 WebApp\Cedar.Web.Api\Cedar.Web.Api.csproj", "{FA7CCDD1-9E7A-400F-9EED-7A9CE3EC6495}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA7CCDD1-9E7A-400F-9EED-7A9CE3EC6495}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA7CCDD1-9E7A-400F-9EED-7A9CE3EC6495}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA7CCDD1-9E7A-400F-9EED-7A9CE3EC6495}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA7CCDD1-9E7A-400F-9EED-7A9CE3EC6495}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FA7CCDD1-9E7A-400F-9EED-7A9CE3EC6495} = {E165A6F1-4D48-4776-B64D-DD68AD190CEA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EA68F1C4-D3EE-442B-900F-D0BDBB4C6C4E}
